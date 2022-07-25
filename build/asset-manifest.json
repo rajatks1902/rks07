@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rajat-portfolio/static/css/main.1b91dc23.css",
-    "main.js": "/rajat-portfolio/static/js/main.358234e4.js",
-    "static/media/award.png": "/rajat-portfolio/static/media/award.9ddb470894a95b801f3a.png",
-    "static/media/personal.png": "/rajat-portfolio/static/media/personal.28cb91d442149e502b09.png",
-    "static/media/address.png": "/rajat-portfolio/static/media/address.a01cb8cc428702f30bec.png",
-    "static/media/email.png": "/rajat-portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
-    "static/media/sun.png": "/rajat-portfolio/static/media/sun.f794832ad72b90c61eb7.png",
-    "static/media/phone.png": "/rajat-portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
-    "static/media/moon.png": "/rajat-portfolio/static/media/moon.3bea3d398a25611d421b.png",
-    "index.html": "/rajat-portfolio/index.html",
-    "main.1b91dc23.css.map": "/rajat-portfolio/static/css/main.1b91dc23.css.map",
-    "main.358234e4.js.map": "/rajat-portfolio/static/js/main.358234e4.js.map"
+    "main.css": "/rks07/static/css/main.1b91dc23.css",
+    "main.js": "/rks07/static/js/main.234b6a9b.js",
+    "static/media/award.png": "/rks07/static/media/award.9ddb470894a95b801f3a.png",
+    "static/media/personal.png": "/rks07/static/media/personal.28cb91d442149e502b09.png",
+    "static/media/address.png": "/rks07/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/rks07/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/rks07/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/rks07/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/rks07/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/rks07/index.html",
+    "main.1b91dc23.css.map": "/rks07/static/css/main.1b91dc23.css.map",
+    "main.234b6a9b.js.map": "/rks07/static/js/main.234b6a9b.js.map"
   },
   "entrypoints": [
     "static/css/main.1b91dc23.css",
-    "static/js/main.358234e4.js"
+    "static/js/main.234b6a9b.js"
   ]
 }
